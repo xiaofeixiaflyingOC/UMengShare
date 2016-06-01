@@ -1,0 +1,2 @@
+pod 'UMengSocial', '~> 4.2.3'
+pod 'UMengAnalytics', '~> 3.6.6'

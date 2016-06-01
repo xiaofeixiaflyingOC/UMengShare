@@ -1,0 +1,19 @@
+//
+//  UMengShare.pch
+//  UMengShare
+//
+//  Created by shengxin on 16/5/31.
+//  Copyright © 2016年 shengxin. All rights reserved.
+//
+
+
+#import "UMSocialSinaHandler.h"
+#import "UMSocialWechatHandler.h"
+#import <UMengAnalytics/MobClick.h>
+#import "UmengShareMarco.h"
+#import "UMSocialData.h"
+#import "UMSocialQQHandler.h"
+#import "WXApi.h"
+#import "UMSocial.h"
+#import "ShareActionModel.h"
+#import "ShareModelHelper.h"

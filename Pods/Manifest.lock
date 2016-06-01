@@ -1,0 +1,13 @@
+PODS:
+  - UMengAnalytics (3.6.6)
+  - UMengSocial (4.2.5)
+
+DEPENDENCIES:
+  - UMengAnalytics (~> 3.6.6)
+  - UMengSocial (~> 4.2.3)
+
+SPEC CHECKSUMS:
+  UMengAnalytics: 4bf831415146b9c57cb10be65fbd43462ef8cf65
+  UMengSocial: 76fb557ec9d2749a63dde17c28ab915f4642e52d
+
+COCOAPODS: 0.39.0
